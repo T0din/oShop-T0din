@@ -1,0 +1,11 @@
+<h1>Mentions légales</h1>
+
+<!-- emmet: p*5>lorem56 -->
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad repellat pariatur eligendi numquam? Provident accusamus facilis nihil unde reprehenderit, ipsum sed qui ipsam eveniet quas ab modi reiciendis omnis deserunt quia numquam quis debitis explicabo voluptatem rerum mollitia! Eaque voluptatem qui id, voluptates illum ipsa inventore, nobis aperiam, aliquid ipsam tempore corporis quidem dignissimos quis!</p>
+<p>Ratione quidem labore qui voluptatem velit, in nobis odio consequatur dicta minus expedita consequuntur quia reiciendis odit distinctio dolores laudantium neque ad? Nostrum, at sunt, eos repellendus itaque reprehenderit nulla veniam incidunt beatae, veritatis voluptates explicabo. Laboriosam, ipsa? Quam suscipit corrupti, nesciunt ad ratione velit at. Impedit incidunt est at ipsam optio ad repellendus tempore.</p>
+<p>Nesciunt mollitia molestias non, dolore nulla ipsum harum soluta id quia temporibus? Natus doloremque, laudantium aliquid magni eaque, tempore perspiciatis architecto non expedita harum, eligendi tenetur! Cupiditate culpa, reprehenderit debitis quam beatae quo, commodi id voluptatum facere nobis doloribus dolore expedita recusandae quibusdam magnam sapiente adipisci ipsum inventore eaque impedit placeat fuga exercitationem illum officia.</p>
+<p>Illum cumque aspernatur ipsum rem ex, voluptas animi sed dolore, omnis dolor sint explicabo, iste harum distinctio. Cum quam atque, nemo maxime quaerat excepturi inventore nihil. Dignissimos incidunt quidem mollitia veniam tenetur consequuntur cumque facilis neque ipsa sequi et nesciunt, officiis tempora similique ratione earum porro rerum. Sequi minus laudantium ratione vel dolore labore? Iusto?</p>
+<p>Tempore nulla asperiores commodi nesciunt, quisquam repellat sequi provident praesentium corporis tenetur modi eos natus cum voluptatem dolor amet ex. Necessitatibus similique hic ut, assumenda enim fuga eaque perspiciatis id, numquam minus architecto dolorem facere illo earum dolor. Quidem, labore enim voluptatibus nihil quo natus earum eos harum? Voluptatem, cumque nisi tempora non laudantium architecto.</p>
+
+
+<a href="<?= $viewVars['baseURL'] ?>/">retour vers l'accueil</a>
